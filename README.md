@@ -55,62 +55,21 @@ Senior iOS & Web Engineer with 8+ years of experience developing scalable and hi
 
 ## Skills
 
-### Technical Skills
+## 🛠 Technical Skills
 
-#### Mobile Development
+📱 Mobile · Swift · Objective-C · SwiftUI · UIKit · iOS SDK · React Native
 
-- Swift
-- Objective-C
-- SwiftUI
-- UIKit
-- iOS SDK
-- React Native
+🌐 Web · React · Next.js · tRPC · AWS · FastAPI · Supabase · Vercel
 
-#### Web Development
+🏗 Architecture · MVC · MVVM · VIPER
 
-- React
-- Next.js
-- tRPC
-- AWS
-- FastAPI
-- Supabase
-- Vercel
+🗄 Databases · CoreData · Realm
 
-#### Architecture & Patterns
+🔌 APIs & Networking · RESTful API · JSON · Sockets · Push Notifications · CoreLocation
 
-- MVC
-- MVVM
-- VIPER
+🔧 Tools & Testing · Git · CI/CD · XCTest · XCUITest · Integration Testing · SPM · CocoaPods
 
-#### Databases & Storage
-
-- CoreData
-- Realm
-
-#### APIs & Networking
-
-- RESTful API
-- JSON
-- Sockets
-- Push Notifications
-- CoreLocation
-
-#### Tools & Testing
-
-- Git
-- CI/CD
-- XCTest
-- XCUITest
-- Integration Testing
-- SPM
-- CocoaPods
-
-#### Additional Skills
-
-- Multi-threading
-- Combine
-- Layout Design
-- Agile Development
+✨ Additional · Multi-threading · Combine · Layout Design · Agile Development
 
 ### Soft Skills
 
